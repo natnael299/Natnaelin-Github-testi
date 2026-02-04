@@ -1,4 +1,5 @@
 # Application
 This code base was meant for `testing git and github features`
 
-### Is there no one else...?
+### This is a message from dev natnael
+I have removed lines of code
